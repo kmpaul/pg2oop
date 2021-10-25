@@ -1,7 +1,3 @@
-Click the following button to launch this tutorial in [Binder](https://mybinder.org):
-
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/kmpaul/pg2oop/main?filepath=index.ipynb)
-
 # A Practical Guide to Object Oriented Programming (in Python)
 
 This tutorial is intended to be a practical introduction to *object oriented programming* for novice Python programmers.  It was created for the [NCAR](https://ncar.ucar.edu) Python Tutorial Seminar Series, and the video for this tutorial will be hosted on the [ProjectPythia YouTube Channel](https://www.youtube.com/channel/UCoZPBqJal5uKpO8ZiwzavCw).
@@ -17,5 +13,3 @@ tutorial is meant to be a stand-alone OOP tutorial presenting the material from 
 point of view.  If this tutorial doesn't completely satisfy you, then feel free to go back
 and watch the first OOP tutorial again (or for the first time).
 </div>
-
-**Start Tutorial: [What is an object?](notebooks/01_what_is_an_object.ipynb)**
