@@ -1,6 +1,0 @@
-name: pg2oop
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - xarray
