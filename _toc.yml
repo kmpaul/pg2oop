@@ -1,0 +1,9 @@
+format: jb-book
+root: README
+parts:
+  - caption: What is an object?
+    chapters:
+    - file: notebooks/01_what_is_an_object
+      sections:
+      - file: notebooks/01a_dont_panic
+      - file: notebooks/01b_why_care

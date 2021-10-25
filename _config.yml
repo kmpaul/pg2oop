@@ -1,0 +1,19 @@
+title: A Practical Guide to Object Oriented Programming (in Python)
+author: Kevin Paul
+copyright: "2021"
+
+html:
+  use_repository_button     : true
+  use_issues_button         : true
+  use_multitoc_numbering    : true
+  extra_navbar              : Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+  home_page_in_navbar       : false
+
+launch_buttons:
+  notebook_interface        : classic
+  binderhub_url             : https://mybinder.org
+  thebe                     : true
+
+repository:
+  url                       : https://github.com/kmpaul/pg2oop
+  branch                    : main
