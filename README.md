@@ -17,5 +17,5 @@ and watch the first OOP tutorial again (or for the first time).</p>
 <div class="alert alert-info">
 <b>Note:</b>
 <p>You can follow along with this tutorial interactively with this link!</p>
-<p><a href="https://mybinder.org/v2/gh/kmpaul/pg2oop/main?filepath=index.ipynb"><img src="https://mybinder.org/badge_logo.svg"></a></p>
+<p><a href="https://mybinder.org/v2/gh/kmpaul/pg2oop/main?labpath=index.ipynb"><img src="https://mybinder.org/badge_logo.svg"></a></p>
 </div>
