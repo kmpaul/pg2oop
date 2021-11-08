@@ -19,3 +19,12 @@ and watch the first OOP tutorial again (or for the first time).</p>
 <p>You can follow along with this tutorial interactively with this link!</p>
 <p><a href="https://mybinder.org/v2/gh/kmpaul/pg2oop/main?labpath=index.ipynb"><img src="https://mybinder.org/badge_logo.svg"></a></p>
 </div>
+
+You may also download the tutorial from GitHub to run it locally:
+
+- Check your conda install with conda --version and if necessary install by following these instructions.
+- Clone this repository by running git clone https://github.com/kmpaul/pg2oop in your terminal.
+- Still in the terminal, create a Conda environment with Jupyter installed by executing `conda create --name pg2oop jupyterlab`
+- Still in the terminal, move into the `pg2oop` directory with `cd pg2oop`.
+- Activate your environment in the terminal with `conda activate pg2oop`.
+- Launch the tutorial with JupyterLab by typing `jupyter lab` and then clicking on the `index.ipynb` file in Jupyter Lab’s file browser.
